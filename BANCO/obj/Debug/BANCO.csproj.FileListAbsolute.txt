@@ -1,0 +1,12 @@
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\BANCO\bin\Debug\BANCO.dll.config
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\BANCO\bin\Debug\BANCO.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\BANCO\bin\Debug\BANCO.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\BANCO\obj\Debug\BANCO.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\BANCO\obj\Debug\BANCO.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\K-Bol\BANCO\bin\Debug\BANCO.dll.config
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\K-Bol\BANCO\bin\Debug\BANCO.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\K-Bol\BANCO\bin\Debug\BANCO.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\K-Bol\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\K-Bol\BANCO\obj\Debug\BANCO.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\K-Bol\BANCO\obj\Debug\BANCO.pdb

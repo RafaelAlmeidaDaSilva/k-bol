@@ -1,0 +1,10 @@
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\COLECAO\bin\Debug\COLECAO.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\COLECAO\bin\Debug\COLECAO.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\COLECAO\obj\Debug\COLECAO.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\COLECAO\obj\Debug\COLECAO.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\COLECAO\obj\Debug\COLECAO.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\K-Bol\COLECAO\bin\Debug\COLECAO.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\K-Bol\COLECAO\bin\Debug\COLECAO.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\K-Bol\COLECAO\obj\Debug\COLECAO.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\K-Bol\COLECAO\obj\Debug\COLECAO.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\K-Bol\COLECAO\obj\Debug\COLECAO.pdb

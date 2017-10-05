@@ -1,0 +1,13 @@
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\K-Bol\bin\Debug\K-Bol.exe.config
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\K-Bol\bin\Debug\K-Bol.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\K-Bol\bin\Debug\K-Bol.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\K-Bol\obj\Debug\K-Bol.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\K-Bol\obj\Debug\K_Bol.Properties.Resources.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\K-Bol\obj\Debug\K-Bol.csproj.GenerateResource.Cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\K-Bol\obj\Debug\K-Bol.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\K-Bol\obj\Debug\K-Bol.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\K-Bol\obj\Debug\K_Bol.FrmPrincipal.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\K-Bol\obj\Debug\K_Bol.FrmCadastro.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\K-Bol\obj\Debug\K_Bol.FrmSobre.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\K-Bol\obj\Debug\K_Bol.Interfaces.FrmLogin.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\K-Bol\K-Bol\obj\Debug\K_Bol.FrmConsulta.resources
